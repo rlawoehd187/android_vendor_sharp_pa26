@@ -121,6 +121,8 @@ PRODUCT_COPY_FILES += \
     vendor/sharp/pa26/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/sharp/pa26/proprietary/vendor/lib/libqmi_client_helper.so:system/vendor/lib/libqmi_client_helper.so \
     vendor/sharp/pa26/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
+    vendor/sharp/pa26/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
+    vendor/sharp/pa26/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/sharp/pa26/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/sharp/pa26/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
     vendor/sharp/pa26/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
