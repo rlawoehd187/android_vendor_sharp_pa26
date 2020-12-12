@@ -17,7 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/sharp/pa26/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/sharp/pa26/proprietary/bin/btnvtool:system/bin/btnvtool \
-    vendor/sharp/pa26/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
     vendor/sharp/pa26/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/sharp/pa26/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/sharp/pa26/proprietary/bin/mpdecision:system/bin/mpdecision \
