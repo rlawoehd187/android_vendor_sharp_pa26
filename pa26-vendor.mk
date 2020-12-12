@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/sharp/pa26/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/sharp/pa26/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/sharp/pa26/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/sharp/pa26/proprietary/bin/radish:system/bin/radish \
     vendor/sharp/pa26/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/sharp/pa26/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sharp/pa26/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
